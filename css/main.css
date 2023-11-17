@@ -106,6 +106,7 @@ body {
   padding: 2em;
   font-size: 1.25em;
   height: 100%;
+  background-color: #F2FFE9;
 }
 
 .wrapper {
@@ -119,13 +120,16 @@ body {
   /*give the divs a width of 30%, add display:flex, set justify-content and align-items to center*/
   color: #fff;
   line-height: 1.5em;
-  font-size: 1.6em;
-  background-color: #f16059;
+  font-size: .5em;
+  background-color: #A6CF98;
   height: 300px;
   display: flex;
   justify-content: center;
   align-items: center;
   width: 30%;
+  color: #557C55;
+  border: 2px solid black;
+  text-align: center;
 }
 
 
